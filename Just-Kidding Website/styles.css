@@ -1,2 +1,19 @@
-body{color:rgb(255, 0, 0)}
-html{background-color:rgb(0, 0, 255)}
+html{@font-face 
+    font-size: 12px;
+    font-family: fantasy;
+}    
+html{
+    background-color: darkblue;
+}
+head{
+    color: gold
+}
+body>p{
+    color:gold
+}
+h1{
+    color:white
+}
+h1{
+    text-emphasis: size 30px ;
+}
